@@ -1,0 +1,61 @@
+html {
+	font: normal 100% green, sans-serif;
+	background-color: white
+}
+
+h1 {
+  text-align: center;
+  color: Red;
+	background-color: blue
+}
+
+hr {
+  border: none;
+  height: 30px;
+  background-color: #00ff00;
+ }
+
+
+.middle {
+
+
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.right {
+
+
+  text-align: center;
+  background: #ffff66;
+  border: 3px solid orange;
+}
+
+section {
+  padding: 7px;
+  margin: 50px;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+.x {
+  color: darkred;
+  font-weight: bold;
+}
+
+.o {
+  color: green;
+  font-weight: bold;
+}
+
+canvas {
+  border: 10px solid black;
+}
+
+
+.winner {
+  background-color: Red;
+}
